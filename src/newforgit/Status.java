@@ -7,6 +7,7 @@ public class Status {
 		for(int a:b) {
 			System.out.println(a);
 		}
+		System.out.println("hello");
 	}
 
 }
